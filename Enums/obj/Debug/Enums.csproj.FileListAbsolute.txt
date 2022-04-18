@@ -1,0 +1,7 @@
+C:\Users\Mert\source\repos\csharpHafta3\Enums\bin\Debug\Enums.exe.config
+C:\Users\Mert\source\repos\csharpHafta3\Enums\bin\Debug\Enums.exe
+C:\Users\Mert\source\repos\csharpHafta3\Enums\bin\Debug\Enums.pdb
+C:\Users\Mert\source\repos\csharpHafta3\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\csharpHafta3\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\csharpHafta3\Enums\obj\Debug\Enums.exe
+C:\Users\Mert\source\repos\csharpHafta3\Enums\obj\Debug\Enums.pdb
